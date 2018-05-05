@@ -1,0 +1,8 @@
+Name: Main Guy
+
+Level: 3
+Exp: 50
+maxHP: 999999
+maxMP: 22
+base_ATK: 40
+base_MAG: 99999
